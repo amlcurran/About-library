@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cd_developer_logo">Developer logo</string>
+    <string name="version_text">Version %s</string>
+    <string name="contact">Contact</string>
+    <string name="about">About</string>
+    <string name="about_title_disclaim">Disclaimers</string>
+    <string name="about_title_ack">Acknowledgments</string>
+    <string name="about_licenses">Licenses</string>
+    <string name="about_title_licenses">Licenses</string>
+    <string name="changes">Recent changes</string>
+    <string name="license_base">%1$s by %2$s. Developed and distributed under a %3$s license.</string>
+    <string name="developer_name">Espian(dev)</string>
+    <string name="about_me">This app is developed by Alex Curran</string>
+    <string name="cd_email">Email developer</string>
+    <string name="cd_googleplus">Visit developer\'s Google+ profile</string>
+    <string name="espiandev">espiandev</string>
+    <string name="cd_twitter">View developer\'s Twitter account</string>
+    <string name="copy_to_clip">%s copied to clipboard</string>
+</resources>

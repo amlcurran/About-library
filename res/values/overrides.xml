@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_colour_100">#CF3119</color>
+    <string name="version">VERSION INT</string>
+    <string name="app_name">App Name</string>
+    <string name="disclaimer">Fake disclaimer text</string>
+    <string name="copyright">Fake copyright text</string>
+    <string name="acknowledgements">Fake acknowledgements text</string>
+</resources>

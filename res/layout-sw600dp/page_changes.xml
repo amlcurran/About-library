@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <include
+        android:layout_width="@dimen/tablet_width"
+        android:layout_height="wrap_content"
+        layout="@layout/page_insert_changes"
+        android:id="@+id/include"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="@dimen/tablet_top_padding" />
+</FrameLayout>
